@@ -1,6 +1,6 @@
 """  RAMÓN ÁVILA GARCÍA
      COMPUTACIÓN APLICADA
-     PRIMER EXAMEN PARCIAL
+     PRIMER  PARCIAL
      
 Descripción: Se desea llevar el control de la inscripción a un evento académico de la Universidad Patito. Se especifica: Tipo
 de usuario, paquete y cantidad.

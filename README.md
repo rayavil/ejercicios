@@ -6,3 +6,7 @@
 
 ## Actividad 2
 - Programa 3
+
+
+## Examen Parcial
+- Examen Parcial 
