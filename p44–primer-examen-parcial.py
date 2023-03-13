@@ -1,7 +1,8 @@
-### RAMÓN ÁVILA GARCÍA
-### COMPUTACIÓN APLICADA
-### PRIMER EXAMEN PARCIAL
-""" Descripción: Se desea llevar el control de la inscripción a un evento académico de la Universidad Patito. Se especifica: Tipo
+"""  RAMÓN ÁVILA GARCÍA
+     COMPUTACIÓN APLICADA
+     PRIMER EXAMEN PARCIAL
+     
+Descripción: Se desea llevar el control de la inscripción a un evento académico de la Universidad Patito. Se especifica: Tipo
 de usuario, paquete y cantidad.
 • Tipo de usuario: [1] Alumno $100, [2] Trabajador $200, [3] Docente $500
 • Tipo de paquete: [1] Solo conferencias $600, [2] Con eventos sociales $800, [3] Con kit de acceso $900
