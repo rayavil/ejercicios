@@ -103,7 +103,7 @@ while(True):
         print ('|  El importe total de todos los accesos es: %s  ' % (importe_total))
         print('-'*50)
         break
-=======
+
 """  RAMÓN ÁVILA GARCÍA
      COMPUTACIÓN APLICADA
      PRIMER  PARCIAL
@@ -208,4 +208,4 @@ while(True):
         print ('|  El importe total de todos los accesos es: %s  ' % (importe_total))
         print('-'*50)
         break
->>>>>>> a9d004c66095903eca8fc0b32afd05613fb0d8b2
+
