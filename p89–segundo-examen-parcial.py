@@ -1,4 +1,5 @@
 # Nombres y edades
+
 import os; os.system('clear') 
 grupo = []
 
