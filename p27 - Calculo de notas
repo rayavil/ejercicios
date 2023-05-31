@@ -1,0 +1,35 @@
+#Se desea calcular el promedio de 5 calificaciones introducidas por el usuario, luego evaluar el resultado e imprimir
+#un mensaje de acuerdo al promedio obtenido: 
+# >0 y <= 6 Quedas reprobado
+#• >6 a <=7 Pasas de panzazo
+#• >7 y <=8 Muy bien, pues mejorar
+#• >8 y <=9 Excelente sigue así
+#• >9 y <=10 Perfecto tu esfuerzo valió la pena
+
+
+import os
+os.system("cls")
+
+print("Para conocer el promedio y conocer el resultado de las notas, ingresa las siguientes 5 calificaciones:\n")
+nota1 = int(input("Calificación 1: "))
+nota2 = int(input("Calificación 2: "))
+nota3 = int(input("Calificación 3: "))
+nota4 = int(input("Calificación 4: "))
+nota5 = int(input("Calificación 5: "))
+
+promedio = (nota1 + nota2 + nota3 + nota4 + nota5) /5
+
+if promedio >0 and promedio <=6:
+    comentario = "Quedas reprobado"
+elif promedio >6 and promedio <=7:
+    comentario = "Pasas de panzaso"
+elif promedio >7 and promedio  <=8:
+    comentario = "Muy bien,puedes mejorar"
+elif promedio >8 and promedio  <=9:
+    comentario = "Excelente sigue asi"
+elif promedio >9 and promedio  <=10:
+    comentario = "Perfecto tu esfuerzo valio la pena"
+else:
+    print("Completo")
+
+print(f"\nEl promedio de las 5 calificaciones es {promedio}, de acuerdo al promedio entonces {comentario}.")
